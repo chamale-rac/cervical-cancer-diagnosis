@@ -1,2 +1,6 @@
 pandas
-ydata-profiling
+seaborn
+matplotlib
+scikit-learn
+numpy
+scipy
