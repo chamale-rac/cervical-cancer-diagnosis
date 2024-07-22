@@ -23,7 +23,7 @@ Here is the updated README with more detailed content for the sections:
 
 ## Overview
 
-This project aims to predict the likelihood of cervical cancer based on various risk factors and medical history. Using a dataset containing attributes related to demographic information, behavioral habits, and medical history, we will perform data cleaning, exploratory data analysis (EDA), and build a predictive model.
+This project aims to predict the likelihood of cervical cancer based on various risk factors and medical history. Using a dataset containing attributes related to demographic information, behavioral habits, and medical history, we will perform data cleaning, exploratory data analysis (EDA), and verify the appliance of PCA and Apriori association rules.
 
 ## Prerequisites
 
