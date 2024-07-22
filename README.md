@@ -29,31 +29,13 @@ This project aims to predict the likelihood of cervical cancer based on various 
 
 While using Python, we highly recommend using a [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) as good practice.
 
-To set up your environment, follow these steps:
-
-1. **Clone the repository:**
-
-   ```sh
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. **Create and activate a virtual environment:**
-
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required libraries:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## Files
 
-- `archive`: Source data files and generated ones.
-- `eda&cleaning.ipynb`: Initial exploratory data analysis notebook (Questions 1 to 7)
+- [`archive`](archive): Source data files and generated ones (original and cleaned datasets).
+- [`eda&cleaning.ipynb`](eda&cleaning.ipynb): Initial exploratory data analysis notebook (Questions 1 to 7)
+- [`pca.ipynb`](pca.ipynb): Principal components analysis (Question 8)
+- [`apriori.ipynb`](apriori.ipynb): Association rules using Apriori algorithm (Question 9)
+- [`findings&conclusions.ipynb`](findings&conclusions.ipynb): Final findings and conclusions about the entire process.
 
 ## Additional Resources
 
