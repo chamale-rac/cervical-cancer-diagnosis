@@ -17,17 +17,13 @@ Here is the updated README with more detailed content for the sections:
 </p>
 <p align="center" >
   <a href="#overview">Overview</a> •
-  <a href="#prerequisites">Prerequisites</a> •
-  <a href="#files">Files</a>
+  <a href="#files">Files</a> •
+  <a href="#recommendations">Recommendations</a>
 </p>
 
 ## Overview
 
 This project aims to predict the likelihood of cervical cancer based on various risk factors and medical history. Using a dataset containing attributes related to demographic information, behavioral habits, and medical history, we will perform data cleaning, exploratory data analysis (EDA), and verify the appliance of PCA and Apriori association rules.
-
-## Prerequisites
-
-While using Python, we highly recommend using a [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) as good practice.
 
 ## Files
 
@@ -38,3 +34,7 @@ While using Python, we highly recommend using a [virtual environment](https://pa
 - [`findings&conclusions.ipynb`](findings&conclusions.ipynb): Final findings and conclusions about the entire process.
 
 Feel free to reach out to us if you have any questions or need further assistance.
+
+## Recommendations
+
+While using Python, we highly recommend using a [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) as good practice.
