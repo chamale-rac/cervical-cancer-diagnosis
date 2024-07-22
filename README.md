@@ -37,13 +37,4 @@ While using Python, we highly recommend using a [virtual environment](https://pa
 - [`apriori.ipynb`](apriori.ipynb): Association rules using Apriori algorithm (Question 9)
 - [`findings&conclusions.ipynb`](findings&conclusions.ipynb): Final findings and conclusions about the entire process.
 
-## Additional Resources
-
-- [Python Virtual Environments Guide](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Numpy Documentation](https://numpy.org/doc/)
-
 Feel free to reach out to us if you have any questions or need further assistance.
